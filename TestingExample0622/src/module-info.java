@@ -1,0 +1,2 @@
+module TestingExample0622 {
+}
